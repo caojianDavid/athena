@@ -10,11 +10,11 @@
     <packaging>pom</packaging>
     <modules>
         <module>athena-parent</module>
+        <module>eureka-server</module>
+        <module>config-server</module>
         <module>microservice-simple-provider</module>
         <module>microservice-simple-consumer</module>
-        <module>config-server</module>
         <module>config-client</module>
-        <module>athena-parent</module>
     </modules>
 
 </project>

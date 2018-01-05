@@ -8,16 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="eureka-server" />
         <module name="microservice-simple-consumer" />
         <module name="microservice-simple-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="athena" target="1.5" />
+      <module name="athena-parent" target="1.6" />
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="microservice-provider" target="1.8" />
       <module name="microservice-simple-consumer" target="1.8" />
       <module name="microservice-simple-provider" target="1.8" />
-      <module name="springcloud-demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

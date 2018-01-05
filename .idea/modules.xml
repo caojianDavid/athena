@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/athena-parent/athena-parent.iml" filepath="$PROJECT_DIR$/athena-parent/athena-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider/microservice-provider.iml" filepath="$PROJECT_DIR$/microservice-provider/microservice-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-simple-consumer/microservice-simple-consumer.iml" filepath="$PROJECT_DIR$/microservice-simple-consumer/microservice-simple-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-simple-provider/microservice-simple-provider.iml" filepath="$PROJECT_DIR$/microservice-simple-provider/microservice-simple-provider.iml" />
     </modules>
