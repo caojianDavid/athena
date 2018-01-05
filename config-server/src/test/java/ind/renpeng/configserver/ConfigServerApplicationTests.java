@@ -1,4 +1,4 @@
-package com.renpeng.configserver;
+package ind.renpeng.configserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

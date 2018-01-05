@@ -1,4 +1,4 @@
-package com.renpeng.configserver;
+package ind.renpeng.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
